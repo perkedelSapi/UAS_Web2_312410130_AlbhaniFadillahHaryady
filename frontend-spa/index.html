@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>E-Library - Sistem Informasi Rental Buku Digital</title>
+
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+  <script src="https://unpkg.com/vue-router@4/dist/vue-router.global.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+
+  <style>[v-cloak] { display: none; }</style>
+</head>
+<body class="bg-gray-50 text-gray-800">
+
+<div id="app" v-cloak>
+  <router-view></router-view>
+</div>
+
+<script src="components/Login.js"></script>
+<script src="components/Home.js"></script>
+<script src="components/AppShell.js"></script>
+<script src="components/Dashboard.js"></script>
+<script src="components/Buku.js"></script>
+<script src="components/Kategori.js"></script>
+<script src="components/Anggota.js"></script>
+<script src="components/Peminjaman.js"></script>
+<script src="app.js"></script>
+
+</body>
+</html>
