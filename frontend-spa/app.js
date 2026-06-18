@@ -3,8 +3,8 @@
 const { createApp } = Vue;
 const { createRouter, createWebHashHistory } = VueRouter;
 
-// Sesuaikan kalau backend di port/domain lain
-const BASE_URL = 'http://localhost:8080';
+
+const BASE_URL = 'https://api-uaslib.infinityfree.me';
 
 axios.defaults.baseURL = BASE_URL;
 
