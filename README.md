@@ -1,4 +1,4 @@
-# E-Library — Sistem Informasi Rental Buku Digital
+# E-Library Sistem Informasi Rental Buku Digital
 ## NAMA: Albhani Fadillah Haryady
 ## NIM: 312410130
 
