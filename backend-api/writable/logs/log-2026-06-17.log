@@ -1,9 +1,0 @@
-ERROR - 2026-06-17 15:07:16 --> DEBUG LOGIN - raw body: {"email":"admin@gmail.com","password":"admin123"}
-ERROR - 2026-06-17 15:07:16 --> DEBUG LOGIN - json decoded: {"email":"admin@gmail.com","password":"admin123"}
-ERROR - 2026-06-17 15:07:16 --> DEBUG LOGIN - email: [admin@gmail.com] password: [admin123]
-ERROR - 2026-06-17 15:09:16 --> DEBUG LOGIN - raw body: {"email":"admin@email.com","password":"admin123"}
-ERROR - 2026-06-17 15:09:16 --> DEBUG LOGIN - json decoded: {"email":"admin@email.com","password":"admin123"}
-ERROR - 2026-06-17 15:09:16 --> DEBUG LOGIN - email: [admin@email.com] password: [admin123]
-ERROR - 2026-06-17 16:22:09 --> DEBUG LOGIN - raw body: {"email":"admin@email.com","password":"admin123"}
-ERROR - 2026-06-17 16:22:09 --> DEBUG LOGIN - json decoded: {"email":"admin@email.com","password":"admin123"}
-ERROR - 2026-06-17 16:22:09 --> DEBUG LOGIN - email: [admin@email.com] password: [admin123]

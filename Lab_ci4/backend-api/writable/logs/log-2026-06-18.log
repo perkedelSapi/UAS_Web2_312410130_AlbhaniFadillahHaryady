@@ -1,0 +1,36 @@
+ERROR - 2026-06-18 00:23:36 --> DEBUG LOGIN - raw body: {"email":"admin@email.com","password":"admin123"}
+ERROR - 2026-06-18 00:23:36 --> DEBUG LOGIN - json decoded: {"email":"admin@email.com","password":"admin123"}
+ERROR - 2026-06-18 00:23:36 --> DEBUG LOGIN - email: [admin@email.com] password: [admin123]
+ERROR - 2026-06-18 00:27:22 --> DEBUG LOGIN - raw body: {"email":"admin@email.com","password":"admiin123"}
+ERROR - 2026-06-18 00:27:22 --> DEBUG LOGIN - json decoded: {"email":"admin@email.com","password":"admiin123"}
+ERROR - 2026-06-18 00:27:22 --> DEBUG LOGIN - email: [admin@email.com] password: [admiin123]
+ERROR - 2026-06-18 00:27:28 --> DEBUG LOGIN - raw body: {"email":"admin@email.com","password":"admin123"}
+ERROR - 2026-06-18 00:27:28 --> DEBUG LOGIN - json decoded: {"email":"admin@email.com","password":"admin123"}
+ERROR - 2026-06-18 00:27:28 --> DEBUG LOGIN - email: [admin@email.com] password: [admin123]
+ERROR - 2026-06-18 00:33:24 --> DEBUG LOGIN - raw body: {"email":"admin@email.com","password":"admin123"}
+ERROR - 2026-06-18 00:33:24 --> DEBUG LOGIN - json decoded: {"email":"admin@email.com","password":"admin123"}
+ERROR - 2026-06-18 00:33:24 --> DEBUG LOGIN - email: [admin@email.com] password: [admin123]
+ERROR - 2026-06-18 00:36:00 --> DEBUG LOGIN - raw body: {"email":"admin@email.com","password":"admin123"}
+ERROR - 2026-06-18 00:36:00 --> DEBUG LOGIN - json decoded: {"email":"admin@email.com","password":"admin123"}
+ERROR - 2026-06-18 00:36:00 --> DEBUG LOGIN - email: [admin@email.com] password: [admin123]
+ERROR - 2026-06-18 00:52:37 --> DEBUG LOGIN - raw body: {"email":"admin@email.com","password":"admin123"}
+ERROR - 2026-06-18 00:52:37 --> DEBUG LOGIN - json decoded: {"email":"admin@email.com","password":"admin123"}
+ERROR - 2026-06-18 00:52:37 --> DEBUG LOGIN - email: [admin@email.com] password: [admin123]
+ERROR - 2026-06-18 01:00:00 --> DEBUG LOGIN - raw body: {"email":"admin@email.com","password":"admin123"}
+ERROR - 2026-06-18 01:00:00 --> DEBUG LOGIN - json decoded: {"email":"admin@email.com","password":"admin123"}
+ERROR - 2026-06-18 01:00:00 --> DEBUG LOGIN - email: [admin@email.com] password: [admin123]
+ERROR - 2026-06-18 01:05:48 --> DEBUG LOGIN - raw body: {"email":"admin@email.com","password":"admin123"}
+ERROR - 2026-06-18 01:05:48 --> DEBUG LOGIN - json decoded: {"email":"admin@email.com","password":"admin123"}
+ERROR - 2026-06-18 01:05:48 --> DEBUG LOGIN - email: [admin@email.com] password: [admin123]
+ERROR - 2026-06-18 01:09:12 --> DEBUG LOGIN - raw body: {"email":"admin@email.com","password":"admin123"}
+ERROR - 2026-06-18 01:09:12 --> DEBUG LOGIN - json decoded: {"email":"admin@email.com","password":"admin123"}
+ERROR - 2026-06-18 01:09:12 --> DEBUG LOGIN - email: [admin@email.com] password: [admin123]
+ERROR - 2026-06-18 01:10:33 --> DEBUG LOGIN - raw body: {"email":"admin@email.com","password":"admin123"}
+ERROR - 2026-06-18 01:10:33 --> DEBUG LOGIN - json decoded: {"email":"admin@email.com","password":"admin123"}
+ERROR - 2026-06-18 01:10:33 --> DEBUG LOGIN - email: [admin@email.com] password: [admin123]
+ERROR - 2026-06-18 01:15:03 --> DEBUG LOGIN - raw body: {"email":"admin@email.com","password":"admin123"}
+ERROR - 2026-06-18 01:15:03 --> DEBUG LOGIN - json decoded: {"email":"admin@email.com","password":"admin123"}
+ERROR - 2026-06-18 01:15:03 --> DEBUG LOGIN - email: [admin@email.com] password: [admin123]
+ERROR - 2026-06-18 01:19:32 --> DEBUG LOGIN - raw body: {"email":"admin@email.com","password":"admin123"}
+ERROR - 2026-06-18 01:19:32 --> DEBUG LOGIN - json decoded: {"email":"admin@email.com","password":"admin123"}
+ERROR - 2026-06-18 01:19:32 --> DEBUG LOGIN - email: [admin@email.com] password: [admin123]
