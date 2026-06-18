@@ -12,7 +12,7 @@ Aplikasi dibangun menggunakan **Decoupled Architecture**, yaitu backend dan fron
 ## Struktur Folder Repository
 
 ```
-Lab_ci4/
+
 ├── backend-api/
 │   ├── app/
 │   │   ├── Controllers/
