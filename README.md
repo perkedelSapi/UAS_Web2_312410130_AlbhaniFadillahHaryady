@@ -132,6 +132,6 @@ Berikut adalah hasil pengujian endpoint yang dilindungi token, dilakukan melalui
 
 ## Link Demo dan Video Presentasi
 
-- **Link Demo**: 
+- **Link Demo**: https://api-uaslib.infinityfree.me/#/
 - **Link Video Presentasi**: 
 
